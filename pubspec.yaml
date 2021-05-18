@@ -19,6 +19,7 @@ dependencies:
   numberpicker: ^2.1.1
   tab_indicator_styler: ^1.0.0
   firebase_core: "^1.1.0"
+  firebase_auth: ^1.1.4
 dev_dependencies:
   flutter_test:
     sdk: flutter
